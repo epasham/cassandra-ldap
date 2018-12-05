@@ -52,3 +52,6 @@ On successful authentication to LDAP a corresponding Cassandra user will be crea
 
 ## Further Information
 - See blog by Kurt Greaves ["Apache Cassandra LDAP Authentication"](https://www.instaclustr.com/apache-cassandra-ldap-authentication/)
+- Please see https://www.instaclustr.com/support/documentation/announcements/instaclustr-open-source-project-status/ for Instaclustr support status of this project
+
+
